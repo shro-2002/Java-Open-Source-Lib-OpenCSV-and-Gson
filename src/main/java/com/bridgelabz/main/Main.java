@@ -9,7 +9,12 @@ public class Main {
 		String filePath = "C:\\Users\\KIIT\\Downloads\\Anime_csv\\book1.csv";
 
 		ReadCSV read = new ReadCSV();
-		read.readCSV(filePath);
+
+//		UC:1
+//		read.readCSV(filePath);
+
+// 		UC:2
+		read.readAtOnce(filePath);
 
 	}
 }

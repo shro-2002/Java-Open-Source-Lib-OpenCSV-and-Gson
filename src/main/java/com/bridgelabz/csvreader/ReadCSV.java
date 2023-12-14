@@ -56,4 +56,29 @@ public class ReadCSV {
 		}
 	}
 
+	/*
+	 * @Description - Reading CSV file using OpenCSV at once
+	 * 
+	 * @Params - path of the CSV file
+	 * 
+	 * @Return - void
+	 */
+	public void readAtOnce(String path) throws CsvException {
+		try (Reader reader = Files.newBufferedReader(Paths.get(path)); CSVReader csvReader = new CSVReader(reader);) {
+			List<String[]> records = csvReader.readAll();
+			for (String[] record : records) {
+				System.out.println("Source : " + record[0]);
+				System.out.println("Target : " + record[1]);
+				System.out.println("Type : " + record[2]);
+				System.out.println("Weight : " + record[3]);
+				System.out.println("Book : " + record[4]);
+				System.out.println("==========================");
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (CsvValidationException e) {
+			e.printStackTrace();
+		}
+	}
+
 }
