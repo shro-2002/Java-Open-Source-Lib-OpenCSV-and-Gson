@@ -1,0 +1,4797 @@
+[
+  {
+    "source": "Source",
+    "target": "Target",
+    "type": "Type",
+    "weight": "weight",
+    "book": "book"
+  },
+  {
+    "source": "Addam-Marbrand",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Addam-Marbrand",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Aegon-I-Targaryen",
+    "target": "Daenerys-Targaryen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Aegon-I-Targaryen",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Alliser-Thorne",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Bowen-Marsh",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Chett",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Clydas",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "34",
+    "book": "1"
+  },
+  {
+    "source": "Aemon-Targaryen-(Maester-Aemon)",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Brandon-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Gerold-Hightower",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Aerys-II-Targaryen",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Daenerys-Targaryen",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Drogo",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Jhogo",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Quaro",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Aggo",
+    "target": "Rakharo",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Albett",
+    "target": "Halder",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Albett",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Albett",
+    "target": "Rast",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Bowen-Marsh",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Grenn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Halder",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "32",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Pypar",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Rast",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Alliser-Thorne",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Alyn",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Alyn",
+    "target": "Harwin",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Alyn",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Alyn",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Alyn",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Arthur-Dayne",
+    "target": "Gerold-Hightower",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Benjen-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Bran-Stark",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Catelyn-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Desmond",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "30",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Ilyn-Payne",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Jeyne-Poole",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "39",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "37",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Meryn-Trant",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "39",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Mycah",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Myrcella-Baratheon",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "104",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Syrio-Forel",
+    "type": "Undirected",
+    "weight": "20",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Vayon-Poole",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Arya-Stark",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Arys-Oakheart",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Balon-Greyjoy",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Balon-Greyjoy",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Balon-Swann",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Balon-Swann",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Boros-Blount",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "28",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Meryn-Trant",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "40",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Barristan-Selmy",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Bran-Stark",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Jaremy-Rykker",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "41",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Mance-Rayder",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Waymar-Royce",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Benjen-Stark",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Gregor-Clegane",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Beric-Dondarrion",
+    "target": "Thoros-of-Myr",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Boros-Blount",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Boros-Blount",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Boros-Blount",
+    "target": "Meryn-Trant",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Boros-Blount",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Bowen-Marsh",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Bowen-Marsh",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Bowen-Marsh",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Catelyn-Stark",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Hali",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Hallis-Mollen",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Hodor",
+    "type": "Undirected",
+    "weight": "29",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Hullen",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "56",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Joseth",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "65",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Nan",
+    "type": "Undirected",
+    "weight": "17",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Osha",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Rickard-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "32",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "112",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Stiv",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "23",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "31",
+    "book": "1"
+  },
+  {
+    "source": "Bran-Stark",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Brandon-Stark",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Brandon-Stark",
+    "target": "Lyanna-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Brandon-Stark",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Brandon-Stark",
+    "target": "Rickard-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Brandon-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Catelyn-Stark",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Chiggen",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Marillion",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Shae",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Shagga",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "61",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Bronn",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Catelyn-Stark",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Edmure-Tully",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Hoster-Tully",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Nestor-Royce",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Brynden-Tully",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Cersei-Lannister",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Colemon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Donnel-Waynwood",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "64",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Edmure-Tully",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Eon-Hunter",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Hallis-Mollen",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Hoster-Tully",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Jon-Umber-(Greatjon)",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "33",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Marillion",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Masha-Heddle",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Moreo-Tumitis",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Mya-Stone",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Mychel-Redfort",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Nestor-Royce",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "22",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "49",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Robert-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "22",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "25",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Stevron-Frey",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "49",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Tytos-Blackwood",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Wendel-Manderly",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Catelyn-Stark",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Cayn",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Cayn",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Cayn",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "69",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Ilyn-Payne",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Janos-Slynt",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "42",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Meryn-Trant",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Myrcella-Baratheon",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "72",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "29",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "27",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Cersei-Lannister",
+    "target": "Vayon-Poole",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Chella",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Chett",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Chett",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Chiggen",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Chiggen",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Clement-Piper",
+    "target": "Karyl-Vance",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Cohollo",
+    "target": "Daenerys-Targaryen",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Cohollo",
+    "target": "Drogo",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Cohollo",
+    "target": "Haggo",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Cohollo",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Colemon",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Conn",
+    "target": "Coratt",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Conn",
+    "target": "Shagga",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Conn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Doreah",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Drogo",
+    "type": "Undirected",
+    "weight": "101",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Eroeh",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Haggo",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Illyrio-Mopatis",
+    "type": "Undirected",
+    "weight": "24",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Irri",
+    "type": "Undirected",
+    "weight": "25",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Jhiqui",
+    "type": "Undirected",
+    "weight": "26",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Jhogo",
+    "type": "Undirected",
+    "weight": "17",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "75",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Mirri-Maz-Duur",
+    "type": "Undirected",
+    "weight": "31",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Quaro",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Rakharo",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Rhaegar-Targaryen",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Daenerys-Targaryen",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "37",
+    "book": "1"
+  },
+  {
+    "source": "Danwell-Frey",
+    "target": "Hosteen-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Danwell-Frey",
+    "target": "Jared-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Danwell-Frey",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Dareon",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Daryn-Hornwood",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Daryn-Hornwood",
+    "target": "Torrhen-Karstark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Desmond",
+    "target": "Eddard-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Dolf",
+    "target": "Shagga",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Donal-Noye",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Doreah",
+    "target": "Drogo",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Doreah",
+    "target": "Irri",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Doreah",
+    "target": "Jhiqui",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Doreah",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Doreah",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Haggo",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Illyrio-Mopatis",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Irri",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Jhiqui",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Jhogo",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Jommo",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Mirri-Maz-Duur",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Ogo",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Quaro",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Rakharo",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Rhaego",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Drogo",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Dywen",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Edmure-Tully",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Galbart-Glover",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Gendry",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Gerold-Hightower",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Gregor-Clegane",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Harwin",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "High-Septon-(fat_one)",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Howland-Reed",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Ilyn-Payne",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Jacks",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "27",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Janos-Slynt",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "26",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "47",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "38",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "32",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Joss",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Lyanna-Stark",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Marq-Piper",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Mycah",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "81",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Porther",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "33",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Raymun-Darry",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "33",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Rhaegar-Targaryen",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "291",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "34",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Syrio-Forel",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Tobho-Mott",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Torrhen-Karstark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Tregar",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "21",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Varly",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "61",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Vayon-Poole",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Wyl-(guard)",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eddard-Stark",
+    "target": "Wylla",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Hoster-Tully",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Karyl-Vance",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Marq-Piper",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Edmure-Tully",
+    "target": "Tytos-Blackwood",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eon-Hunter",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Eon-Hunter",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Fogo",
+    "target": "Ogo",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Galbart-Glover",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Galbart-Glover",
+    "target": "Jon-Umber-(Greatjon)",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Galbart-Glover",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Galbart-Glover",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Galbart-Glover",
+    "target": "Roose-Bolton",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Gared",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Gared",
+    "target": "Waymar-Royce",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Gared",
+    "target": "Will-(prologue)",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Gerold-Hightower",
+    "target": "Oswell-Whent",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Gerold-Hightower",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Marq-Piper",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Gregor-Clegane",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Halder",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "31",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Pypar",
+    "type": "Undirected",
+    "weight": "27",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Grenn",
+    "target": "Todder",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Gunthor-son-of-Gurn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Haggo",
+    "target": "Mirri-Maz-Duur",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Haggo",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Haggo",
+    "target": "Rakharo",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Halder",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "23",
+    "book": "1"
+  },
+  {
+    "source": "Halder",
+    "target": "Pypar",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Halder",
+    "target": "Rast",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Halder",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Halder",
+    "target": "Todder",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hallis-Mollen",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Hallis-Mollen",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Hallis-Mollen",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Harwin",
+    "target": "Hullen",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Harwin",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Harys-Swyft",
+    "target": "Jaime-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Heward",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Heward",
+    "target": "Wyl-(guard)",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "High-Septon-(fat_one)",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Hobb",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Hodor",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Hodor",
+    "target": "Nan",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Hodor",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Hosteen-Frey",
+    "target": "Jared-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hoster-Tully",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hoster-Tully",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hugh",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hullen",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Hullen",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hullen",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Hullen",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Illyrio-Mopatis",
+    "target": "Irri",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Illyrio-Mopatis",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Illyrio-Mopatis",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Illyrio-Mopatis",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Jeyne-Poole",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Ilyn-Payne",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Irri",
+    "target": "Jhiqui",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Irri",
+    "target": "Jhogo",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Irri",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Irri",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jafer-Flowers",
+    "target": "Jaremy-Rykker",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Jon-Arryn",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Kevan-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "24",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "36",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaime-Lannister",
+    "target": "Wyl-(guard)",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Janos-Slynt",
+    "target": "Joffrey-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Janos-Slynt",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Janos-Slynt",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Janos-Slynt",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Janos-Slynt",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jaremy-Rykker",
+    "target": "Jeor-Mormont",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Jaremy-Rykker",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jeor-Mormont",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "81",
+    "book": "1"
+  },
+  {
+    "source": "Jeor-Mormont",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jeor-Mormont",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jeor-Mormont",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "23",
+    "book": "1"
+  },
+  {
+    "source": "Jeor-Mormont",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jeyne-Poole",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jeyne-Poole",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jeyne-Poole",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jeyne-Poole",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "27",
+    "book": "1"
+  },
+  {
+    "source": "Jhiqui",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jhogo",
+    "target": "Jorah-Mormont",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jhogo",
+    "target": "Mirri-Maz-Duur",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Jon-Snow",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Loras-Tyrell",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Meryn-Trant",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Mycah",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Myrcella-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "30",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "24",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "87",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Joffrey-Baratheon",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jommo",
+    "target": "Ogo",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "32",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Arryn",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Jory-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Matthar",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Othor",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Pypar",
+    "type": "Undirected",
+    "weight": "45",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Rast",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "53",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "81",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Todder",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "56",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Snow",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Maege-Mormont",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Roose-Bolton",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jon-Umber-(Greatjon)",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jonos-Bracken",
+    "target": "Tytos-Blackwood",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jorah-Mormont",
+    "target": "Mirri-Maz-Duur",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jorah-Mormont",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jorah-Mormont",
+    "target": "Rhaegar-Targaryen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jorah-Mormont",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jorah-Mormont",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Mordane",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Vayon-Poole",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jory-Cassel",
+    "target": "Wyl-(guard)",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Joseth",
+    "target": "Luwin",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Jyck",
+    "target": "Morrec",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Jyck",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Karyl-Vance",
+    "target": "Marq-Piper",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Kevan-Lannister",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Kevan-Lannister",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Kurleket",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Lancel-Lannister",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Leo-Lefford",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Mace-Tyrell",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Loras-Tyrell",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Nan",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Osha",
+    "type": "Undirected",
+    "weight": "16",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Rickon-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "20",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Luwin",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Lyanna-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Lyanna-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Lyn-Corbray",
+    "target": "Lysa-Arryn",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Robert-Arryn",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "25",
+    "book": "1"
+  },
+  {
+    "source": "Lysa-Arryn",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Mace-Tyrell",
+    "target": "Paxter-Redwyne",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Maege-Mormont",
+    "target": "Rickard-Karstark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Maegor-I-Targaryen",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Marillion",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Marillion",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Marillion",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Marq-Piper",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Meryn-Trant",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Meryn-Trant",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Meryn-Trant",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Meryn-Trant",
+    "target": "Syrio-Forel",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Mirri-Maz-Duur",
+    "target": "Qotho",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Mord",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "20",
+    "book": "1"
+  },
+  {
+    "source": "Mordane",
+    "target": "Myrcella-Baratheon",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Mordane",
+    "target": "Petyr-Baelish",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Mordane",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Mordane",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "43",
+    "book": "1"
+  },
+  {
+    "source": "Morrec",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Mycah",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Mycah",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Myrcella-Baratheon",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Myrcella-Baratheon",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Myrcella-Baratheon",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Nan",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Osha",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Pycelle",
+    "type": "Undirected",
+    "weight": "14",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "30",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Petyr-Baelish",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "29",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Renly-Baratheon",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "26",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Pycelle",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "17",
+    "book": "1"
+  },
+  {
+    "source": "Pypar",
+    "target": "Rast",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Pypar",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Pypar",
+    "target": "Todder",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Qotho",
+    "target": "Quaro",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Quaro",
+    "target": "Rakharo",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Randyll-Tarly",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Rast",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Raymun-Darry",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "42",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "19",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Renly-Baratheon",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Rhaegar-Targaryen",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "22",
+    "book": "1"
+  },
+  {
+    "source": "Rhaegar-Targaryen",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Rhaegar-Targaryen",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Rhaegar-Targaryen",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Rickard-Karstark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Rickard-Karstark",
+    "target": "Roose-Bolton",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Rickon-Stark",
+    "target": "Robb-Stark",
+    "type": "Undirected",
+    "weight": "20",
+    "book": "1"
+  },
+  {
+    "source": "Rickon-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Rickon-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Robert-Baratheon",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Rodrik-Cassel",
+    "type": "Undirected",
+    "weight": "15",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Roose-Bolton",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Samwell-Tarly",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Stiv",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "37",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Torrhen-Karstark",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "11",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Wendel-Manderly",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robb-Stark",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Arryn",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Sandor-Clegane",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "26",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "21",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Tommen-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "13",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "36",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Vayon-Poole",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Robert-Baratheon",
+    "target": "Viserys-Targaryen",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Rodrik-Cassel",
+    "target": "Theon-Greyjoy",
+    "type": "Undirected",
+    "weight": "6",
+    "book": "1"
+  },
+  {
+    "source": "Rodrik-Cassel",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Rodrik-Cassel",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "7",
+    "book": "1"
+  },
+  {
+    "source": "Roose-Bolton",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Sandor-Clegane",
+    "target": "Sansa-Stark",
+    "type": "Undirected",
+    "weight": "23",
+    "book": "1"
+  },
+  {
+    "source": "Sandor-Clegane",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Sansa-Stark",
+    "target": "Stannis-Baratheon",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Sansa-Stark",
+    "target": "Tomard",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Sansa-Stark",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Sansa-Stark",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Shae",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "12",
+    "book": "1"
+  },
+  {
+    "source": "Shagga",
+    "target": "Timett",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Shagga",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "17",
+    "book": "1"
+  },
+  {
+    "source": "Shagga",
+    "target": "Ulf-son-of-Umar",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Stannis-Baratheon",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Stannis-Baratheon",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "5",
+    "book": "1"
+  },
+  {
+    "source": "Stevron-Frey",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Theon-Greyjoy",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Theon-Greyjoy",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Theon-Greyjoy",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Timett",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Tommen-Baratheon",
+    "target": "Tyrion-Lannister",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Tyrion-Lannister",
+    "target": "Tywin-Lannister",
+    "type": "Undirected",
+    "weight": "40",
+    "book": "1"
+  },
+  {
+    "source": "Tyrion-Lannister",
+    "target": "Vardis-Egen",
+    "type": "Undirected",
+    "weight": "9",
+    "book": "1"
+  },
+  {
+    "source": "Tyrion-Lannister",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "3",
+    "book": "1"
+  },
+  {
+    "source": "Tyrion-Lannister",
+    "target": "Willis-Wode",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Tyrion-Lannister",
+    "target": "Yoren",
+    "type": "Undirected",
+    "weight": "10",
+    "book": "1"
+  },
+  {
+    "source": "Tywin-Lannister",
+    "target": "Varys",
+    "type": "Undirected",
+    "weight": "4",
+    "book": "1"
+  },
+  {
+    "source": "Tywin-Lannister",
+    "target": "Walder-Frey",
+    "type": "Undirected",
+    "weight": "8",
+    "book": "1"
+  },
+  {
+    "source": "Waymar-Royce",
+    "target": "Will-(prologue)",
+    "type": "Undirected",
+    "weight": "18",
+    "book": "1"
+  }
+]

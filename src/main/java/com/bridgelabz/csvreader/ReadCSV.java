@@ -64,7 +64,11 @@ public class ReadCSV {
 	 * @Return - void
 	 */
 	public void readAtOnce(String path) throws CsvException {
-		try (Reader reader = Files.newBufferedReader(Paths.get(path)); CSVReader csvReader = new CSVReader(reader);) {
+		try (
+
+				Reader reader = Files.newBufferedReader(Paths.get(path));
+
+				CSVReader csvReader = new CSVReader(reader);) {
 			List<String[]> records = csvReader.readAll();
 			for (String[] record : records) {
 				System.out.println("Source : " + record[0]);
